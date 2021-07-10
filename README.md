@@ -1,4 +1,4 @@
-# -Big-data-technology-and-machine-learning
+# Big-data-technology-and-machine-learning
 
 English：Here we use python programming language to realize the algorithm of machine learning. The main algorithms include linear regression model, logistic regression model, decision tree model, naive Bayesian model, K-means, random forest model, AdaBoost and gbdt algorithm, xgboost and lightgbm model, PCA, collaborative filtering algorithm, Apriori association analysis model, neural network algorithm, etc
 
